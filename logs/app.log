@@ -4,3 +4,4 @@
 2026-10-29 08:26:55 ERROR com.student.Calculator - Division by zero: a=10, b=0
 2026-10-29 08:27:48 WARN  com.student.Calculator - Division by zero: a=10, b=0
 2026-11-12 05:52:21 ERROR com.student.Calculator - Division by zero: a=10, b=0
+2026-11-12 06:06:02 ERROR com.student.Calculator - Division by zero: a=10, b=0
